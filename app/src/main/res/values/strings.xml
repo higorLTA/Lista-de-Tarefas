@@ -4,4 +4,5 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="view_titulo">Titulo</string>
     <string name="view_descricao">Descrição</string>
+    <string name="informe_data">Informe a Data</string>
 </resources>
