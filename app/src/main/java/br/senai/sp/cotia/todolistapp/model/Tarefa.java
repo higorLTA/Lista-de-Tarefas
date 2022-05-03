@@ -60,4 +60,9 @@ public class Tarefa {
     public void setDataPrevista(long dataPrevista) {
         this.dataPrevista = dataPrevista;
     }
+
+    //Informa se a tarefas esta concluida
+    public boolean isCocluida(){
+        return dataFinalizacao != 0;
+    }
 }
